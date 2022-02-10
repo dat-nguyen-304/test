@@ -107,5 +107,4 @@ Here, you can see the products you have added, choose to buy or delete them. Whe
 ![VIP](./assets/wiframes//Vip.png)
 
 Now, you read the information and choose the right package for you. Finally enjoy great moments with Sakura-shop."# prj301-se1615-03" 
-"# prj301-se1615-03" 
-"# prj301-se1615-03" 
+# abcxyz ahihihihihihihihihihih
